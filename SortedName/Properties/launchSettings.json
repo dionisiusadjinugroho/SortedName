@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SortedName": {
+      "commandName": "Project",
+      "commandLineArgs": "./unsorted-names-list.txt"
+    }
+  }
+}
